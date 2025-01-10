@@ -1,0 +1,69 @@
+"","ID","Day","Month","Year","Location","Danger_Score","Trigger_Type","Origin","Size","Members","Dragged","Hurt","Dead","Activity","lat","long"
+"1",133,"03","12","2021","Bc. de Astún","3","Slab","Accidental",2,2,1,0,-1,"Skimo",42.8104736340661,-0.499782343403072
+"2",132,"28","11","2021","Roques Blanques-Pic de la Dona","3","Slab","Unknown",2.5,1,1,-1,1,"Mountaineerin",42.4304915483218,2.2677345868399
+"3",124,"25","11","2021","Puigmal","3","Slab","Accidental",2,2,1,0,0,"Skimo",42.3875360845881,2.10866979333546
+"4",151,"23","04","2022","Pic de Piau","3","Slab","Accidental",2,5,1,0,0,"Skimo",42.7634294294141,0.148037473656988
+"5",149,"16","04","2022","Besiberri Nord","2","Slab","Accidental",1.5,2,1,0,0,"Skimo",42.6059790805946,0.829848807991929
+"6",141,"04","04","2022","Cap Vaquèira-Vinheta","3","Slab","Accidental",2,3,1,0,1,"Off-piste skiing",42.695700281905,0.974698536153746
+"7",143,"04","04","2022","Olla del Bacivèr","3","Slab","Accidental",2,4,3,1,0,"Freeride",42.7136732376438,0.987875201786075
+"8",146,"03","04","2022","Pic Blanc","3","Slab","Accidental",2,1,1,0,0,"Off-piste skiing",42.5256336196399,1.7244671076025
+"9",147,"03","04","2022","Coma del Forn","3","Slab","Accidental",1.5,1,1,0,0,"Skimo",42.6799351653572,1.19458515593549
+"10",148,"03","04","2022","Coma del Forn","3","Slab","Accidental",1.5,1,1,0,0,"Skimo",42.6799351653572,1.19458515593549
+"11",436,"03","04","2022","Pic Blanc","3","Slab","Accidental",2,2,1,0,0,"Off-piste skiing",42.525032693561,1.72476199103062
+"12",142,"02","04","2022","Baciver - Paletes de la Reina","4","Slab","Accidental",2,1,1,0,0,"Off-piste skiing",42.7161160589623,0.985805717913406
+"13",176,"01","04","2022","Hoyo sin tierra","2","Slab","Accidental",NA,5,3,-1,0,"Skimo",43.170496,-4.825373
+"14",144,"15","03","2022","Serra Seca","3","Slab","Accidental",2,4,1,0,0,"Skimo",42.5122853736047,1.70768820867104
+"15",145,"15","03","2022","Soldeu","3","Slab","Accidental",3,2,2,0,0,"Freeride",42.5494762302712,1.64830303905402
+"16",437,"15","03","2022","El Tarter","3","Slab","Accidental",2,2,2,0,0,"Freeride",42.550867295126,1.64762784074931
+"17",438,"15","03","2022","Pic de Serra Seca","3","Slab","Accidental",1.5,4,1,0,0,"Skimo",42.5169038097683,1.70216757047526
+"18",138,"11","03","2022","Bacivèr","2","Point Release","Accidental",1,2,1,0,0,"Off-piste skiing",42.710128397595,0.985758925814331
+"19",140,"11","03","2022","Agulles Travessani","3","Slab","Accidental",2,8,7,0,0,"Skimo",42.6132910009904,0.886093318865884
+"20",139,"10","03","2022","Gavarnie","3","Unknown","Natural",2,2,1,0,1,"Mountaineerin",42.6933658302488,-0.00872274668165529
+"21",136,"21","02","2022","Pic de Ratera","2","Slab","Accidental",1,5,3,0,0,"Skimo",42.597934447819,0.95536089166993
+"22",137,"21","02","2022","Pica Cervi de Durro","2","Slab","Accidental",2,1,1,0,0,"Off-piste skiing",42.4623148652577,0.867287619125441
+"23",135,"16","01","2022","Saslosses (Val d'Aran)","2","Slab","Accidental",1,2,1,0,0,"Skimo",42.63466,0.895809
+"24",373,"19","12","2022","Pico de Argualas","2","Slab","Accidental",NA,6,1,0,0,"Skimo",42.7651526566296,-0.262766288398053
+"25",371,"18","12","2022","Salvaguardia, canal W","2","Slab","Accidental",1,1,1,0,0,"Mountaineerin",42.695826094185,0.629442693170685
+"26",395,"12","12","2022","Port Vell","No prediction","Slab","Accidental",NA,1,1,0,0,"Skimo",42.5719349745304,1.44339758239019
+"27",370,"30","11","2022","Cap des Clòsos","2","Slab","Accidental",NA,4,1,0,0,"Skimo",42.7479576226407,0.933766701753283
+"28",369,"29","11","2022","Escornacrabes","2","Slab","Accidental",NA,2,2,0,0,"Off-piste skiing",42.692892691691,0.977031232445396
+"29",392,"04","03","2023","Pico Arriel","3","Slab","Accidental",NA,4,1,1,0,"Unknown",42.834534597957,-0.331634490260742
+"30",394,"02","03","2023","Pic de l'Hortell","2","Slab","Accidental",2,3,1,0,0,"Off-piste skiing",42.6220862787094,1.50963682148668
+"31",393,"27","02","2023","Vulturó","2","Slab","Accidental",1.5,NA,1,0,0,"Skimo",42.1821741057811,1.5259953131724
+"32",389,"26","02","2023","Cambra d'Ase","3","Slab","Accidental",NA,2,1,0,0,"Skimo",42.4523096407252,2.13045593997398
+"33",391,"26","02","2023","Gra de Fajol","3","Unknown","Accidental",2.5,2,2,1,0,"Mountaineerin",42.4169146141823,2.25322955143851
+"34",383,"25","02","2023","Tuc de la Cigalera","3","Slab","Accidental",1,2,1,0,0,"Skimo",42.6725876885289,0.994252448682436
+"35",384,"25","02","2023","Pico Brazato","3","Slab","Accidental",2,3,1,0,0,"Skimo",42.7423827644436,-0.202828728741036
+"36",385,"25","02","2023","Pico Foratula","3","Slab","Accidental",2,1,1,0,0,"Skimo",42.7440058988326,-0.227406818986386
+"37",387,"25","02","2023","Pic de la Mina","4","Slab","Accidental",NA,3,2,1,0,"Skimo",42.5331605197668,1.7705577434398
+"38",390,"25","02","2023","Pic Saint André","3","Unknown","Accidental",NA,3,3,1,0,"Skimo",42.7190203387166,-0.0656377445796519
+"39",388,"24","02","2023","Pic de la Mina","3","Slab","Accidental",2,3,1,0,0,"Skimo",42.5442278428444,1.76795295480317
+"40",382,"19","02","2023","Picón de Jeres","No prediction","Slab","Accidental",2,2,2,0,0,"Mountaineerin",37.1163208579085,-3.24551149973301
+"41",381,"18","02","2023","Picón de Jeres","No prediction","Slab","Accidental",2,2,2,2,0,"Mountaineerin",37.1157390950434,-3.24223112860703
+"42",379,"15","02","2023","Saslòses (Val d'Aran)","2","Slab","Accidental",2,2,1,0,0,"Skimo",42.635685,0.89708
+"43",378,"28","01","2023","Bachimaña","3","Slab","Accidental",2,9,2,0,0,"Skimo",42.7777222741555,-0.227077164724359
+"44",435,"24","01","2023","Pic de l'Hortell","3","Slab","Accidental",2,2,1,0,0,"Skimo",42.6206178537021,1.50592053709478
+"45",377,"20","01","2023","Bonaigua","3","Slab","Accidental",2,2,1,0,0,"Off-piste skiing",42.6580027784926,0.983096986592442
+"46",376,"18","01","2023","Cap de Vaqueira","3","Slab","Accidental",2,2,2,2,0,"Off-piste skiing",42.6960205983104,0.972254955401124
+"47",374,"10","01","2023","Peña Santa de Castilla","Out of prediction period","Slab","Accidental",NA,2,1,0,0,"Mountaineerin",43.2037368611273,-4.96047790911666
+"48",375,"10","01","2023","Campirme","2","Slab","Accidental",2.5,6,1,0,-1,"Skimo",42.6668234697054,1.18850469551825
+"49",398,"07","12","2023","Refugi Sarradets","2","Slab","Accidental",1.5,1,1,0,0,"Skimo",42.7006044080808,-0.0504684448242188
+"50",396,"03","12","2023","Ref Pòrt de Vénasque","2","Slab","Unknown",NA,2,2,0,0,"Rackets",42.7043685672529,0.647428900962228
+"51",397,"03","12","2023","Midi de Bigorra","2","Point Release","Accidental",2,5,1,1,0,"Skimo",42.932738,0.130613
+"52",428,"08","05","2024","Pique Longue du Vignemale","2","Slab","Accidental",1,2,2,0,0,"Skimo",42.773469,-0.145678
+"53",411,"03","05","2024","Aneto","3","Slab","Accidental",2,NA,1,0,0,"Skimo",42.635868,0.657636
+"54",427,"28","03","2024","Colouir N Pic de Font Freda","3","Slab","Accidental",NA,2,1,1,0,"Skimo",42.538899,1.793667
+"55",409,"25","03","2024","Tuca de Literola","3","Slab","Accidental",2,2,1,1,0,"Skimo",42.67783,0.561747
+"56",418,"24","03","2024","Torrent de la Balma","2","Slab","Natural",1,1,1,0,1,"Hiking",42.3850874404816,2.19073139021129
+"57",406,"10","03","2024","Pic de la Mine","3","Slab","Accidental",NA,4,3,0,0,"Skimo",42.531146,1.765743
+"58",416,"09","03","2024","Astún. Pastores","3","Slab","Accidental",2,3,3,0,0," On-piste skiing",42.803318,-0.507407
+"59",408,"05","03","2024","Pic de l'Estanyó","3","Slab","Accidental",2.5,13,5,0,0,"Skimo",42.611380192639,1.58673086508257
+"60",405,"28","02","2024","Pic du Midi","4","Slab","Accidental",2,1,1,1,0,"Mountainboarding",42.933397,0.134231
+"61",413,"28","02","2024","Astún. Llanos del Sol","3","Slab","Accidental",2,2,1,0,0," On-piste skiing",42.816933,-0.50197
+"62",415,"28","02","2024","Astún. Llanos del Sol","3","Slab","Accidental",2,3,3,0,0," On-piste skiing",42.816933,-0.50197
+"63",417,"28","02","2024","Arcalís","3","Slab","Accidental",2,2,1,1,0,"Off-piste skiing",42.6273281155936,1.4883170899867
+"64",402,"11","02","2024","Tuc Gran de Sendrosa","2","Slab","Accidental",1,2,1,1,0,"Skimo",42.6232845025593,0.945482535070257
+"65",401,"13","01","2024","Pico Aspe","3","Slab","Accidental",1,2,2,0,1,"Mountaineerin",42.763861,-0.56511
+"66",400,"09","01","2024","Baser Negre","2","Slab","Accidental",1.5,2,1,0,0,"Mountainboarding",42.6310539722271,1.47497880107446
+"67",399,"08","01","2024","Malh Blanc de Tredòs","3","Slab","Accidental",2,5,1,1,0,"Skimo",42.65654133722,0.945806909251492
+"68",412,"06","01","2024","Astún. Malacara","2","Slab","Unknown",1,2,2,0,0," On-piste skiing",42.808845,-0.486794

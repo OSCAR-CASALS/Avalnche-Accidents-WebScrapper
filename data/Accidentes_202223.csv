@@ -1,0 +1,26 @@
+ID;Data;Lloc;Grau_Perill;Tipus_Desencadenant;Origen;Mida;Membres;Arrossegats;Ferits;Morts;Activitat;lat;long
+392;04/03/2023;Pico Arriel;3;Placa (PL);Accidental;2,5;4;1;1;0;Desconegut;42.834534597956996;-0.3316344902607416
+394;02/03/2023;Pic de l'Hortell;2;Placa (PL);Accidental;2;3;1;0;0;Esquí fora pista;42.62208627870938;1.5096368214866775
+393;27/02/2023;Vulturó;2;Placa (PL);Accidental;1.5;Desconegut;1;0;0;Esquí de muntanya;42.18217410578112;1.5259953131723993
+389;26/02/2023;Cambra d'Ase;3;Placa (PL);Accidental;1,5;2;1;0;0;Esquí de muntanya;42.45230964072516;2.1304559399739813
+391;26/02/2023;Gra de Fajol;3;Desconegut (null);Accidental;2.5;2;2;1;0;Alpinisme;42.416914614182325;2.2532295514385097
+383;25/02/2023;Tuc de la Cigalera;3;Placa (PL);Accidental;1;2;1;0;0;Esquí de muntanya;42.672587688528886;0.9942524486824356
+384;25/02/2023;Pico Brazato;3;Placa (PL);Accidental;2;3;1;0;0;Esquí de muntanya;42.74238276444356;-0.20282872874103575
+385;25/02/2023;Pico Foratula;3;Placa (PL);Accidental;2;1;1;0;0;Esquí de muntanya;42.74400589883259;-0.22740681898638648
+387;25/02/2023;Pic de la Mina;4;Placa (PL);Accidental;1,5;3;2;1;0;Esquí de muntanya;42.53316051976681;1.770557743439798
+390;25/02/2023;Pic Saint André;3;Desconegut (null);Accidental;Desconegut;3;3;1;0;Esquí de muntanya;42.71902033871659;-0.0656377445796519
+388;24/02/2023;Pic de la Mina;3;Placa (PL);Accidental;2;3;1;0;0;Esquí de muntanya;42.54422784284444;1.7679529548031738
+382;19/02/2023;Picón de Jeres;Sense predicció;Placa (PL);Accidental;2;2;2;0;0;Alpinisme;37.116320857908455;-3.2455114997330052
+381;18/02/2023;Picón de Jeres;Sense predicció;Placa (PL);Accidental;2;2;2;2;0;Alpinisme;37.11573909504342;-3.2422311286070293
+379;15/02/2023;Saslòses (Val d'Aran);2;Placa (PL);Accidental;2;2;1;0;0;Esquí de muntanya;42.635685;0.89708
+378;28/01/2023;Bachimaña;3;Placa (PL);Accidental;2;9;2;0;0;Esquí de muntanya;42.7777222741555;-0.22707716472435857
+435;24/01/2023;Pic de l'Hortell;3;Placa (PL);Accidental;2;2;1;0;0;Esquí de muntanya;42.620617853702086;1.5059205370947781
+377;20/01/2023;Bonaigua;3;Placa (PL);Accidental;2;2;1;0;0;Esquí fora pista;42.65800277849262;0.9830969865924423
+376;18/01/2023;Cap de Vaqueira;3;Placa (PL);Accidental;2;2;2;2;0;Esquí fora pista;42.696020598310355;0.972254955401124
+374;10/01/2023;Peña Santa de Castilla;Fora periode de predicció;Placa (PL);Accidental;1,5;2;1;0;0;Alpinisme;43.20373686112734;-4.960477909116661
+375;10/01/2023;Campirme;2;Placa (PL);Accidental;2.5;6;1;0;Desconegut;Esquí de muntanya;42.666823469705406;1.1885046955182466
+373;19/12/2022;Pico de Argualas;2;Placa (PL);Accidental;1,5;6;1;0;0;Esquí de muntanya;42.76515265662964;-0.2627662883980531
+371;18/12/2022;Salvaguardia, canal W;2;Placa (PL);Accidental;1;1;1;0;0;Alpinisme;42.695826094185;0.6294426931706855
+395;12/12/2022;Port Vell;Sense predicció;Placa (PL);Accidental;Desconegut;1;1;0;0;Esquí de muntanya;42.57193497453044;1.4433975823901914
+370;30/11/2022;Cap des Clòsos;2;Placa (PL);Accidental;1,5;4;1;0;0;Esquí de muntanya;42.747957622640655;0.9337667017532826
+369;29/11/2022;Escornacrabes;2;Placa (PL);Accidental;1,5;2;2;0;0;Esquí fora pista;42.69289269169098;0.9770312324453957
