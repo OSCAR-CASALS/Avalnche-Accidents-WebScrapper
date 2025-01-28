@@ -20,7 +20,7 @@ repository can be used as following:
 pip install -r requirements.txt
 ```
 
-To aquire the R dependencies required to process data the following script install.R can be used as following:
+To aquire the R dependencies required to process data the script install.R can be used as following:
 
 ```
 Rscript install.R
