@@ -30,7 +30,7 @@ print("Output directory:", OutputDirectory)
 ###################################################################
 
 # Create directory to hold csv
-if not os.path.exists("data"):
+if not os.path.exists(OutputDirectory):
     os.mkdir(OutputDirectory)
 
 for i in Seasons:

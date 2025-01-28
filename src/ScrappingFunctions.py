@@ -89,24 +89,12 @@ def GetInformation(season, outputDirectory):
     
         # Web Driver Wait used for when it is needed to wait for an element to appear
         wait = WebDriverWait(driver, 10)
-        # Since the page is buggy, the elements of the season are not shown until the next page button
-        # is pressed, therefore before extracting any information the button must be pressed.
-        wait.until(EC.presence_of_element_located((By.XPATH, '//*[@title="Go to next page"]')))
-
-        NextButton = driver.find_element(By.XPATH, '//*[@title="Go to next page"]')
-
-        wait.until(EC.element_to_be_clickable(NextButton))
         
-        driver.execute_script("arguments[0].scrollIntoView(true);", NextButton)
-
-        NextButton.click()
-        # Wait two seconds before continuing, this is done to avoid put too much preasure to the website
-        time.sleep(2)
         # Extract data from table
         wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, ".MuiDataGrid-virtualScrollerRenderZone.css-1vouojk")))
 
         Table = driver.find_element(By.CSS_SELECTOR, ".MuiDataGrid-virtualScrollerRenderZone.css-1vouojk")
-        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, ".MuiDataGrid-virtualScrollerRenderZone.css-1vouojk")))
+        wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, ".MuiDataGrid-virtualScrollerRenderZone.css-1vouojk")))
 
         rows = wait.until(lambda Table: Table.find_elements(By.CSS_SELECTOR, ".MuiDataGrid-row"))
 
@@ -114,11 +102,12 @@ def GetInformation(season, outputDirectory):
             Els = r.find_elements(By.CSS_SELECTOR, ".MuiDataGrid-cell")
             ID = r.get_attribute("data-id")
             textToAdd = ID + ";"
+            #textToAdd = ""
             for i in Els:
                 textToAdd += i.text + ";"
             time.sleep(1)
             Cordinates = getCoordinates(ID)
-            print(textToAdd + Cordinates[0] + ";" + Cordinates[1], end = "\n", file = File)
+            print(textToAdd[0:-1] + Cordinates[0] + ";" + Cordinates[1], end = "\n", file = File)
 
         File.close()
 
